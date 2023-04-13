@@ -1,4 +1,4 @@
-1. Ознакомиться с "черепашкой" для рисования в Python по (https://opentechschool.github.io/python-beginners/ru/simple_drawing.html)[ссылке] или (https://gvard.github.io/py/turtle/)[тут]
+1. Ознакомиться с "черепашкой" для рисования в Python по [ссылке](https://opentechschool.github.io/python-beginners/ru/simple_drawing.html) или [тут](https://gvard.github.io/py/turtle/)
 2. Реализуйте классы геометрических фигур (круг(Circle), квадрат(Square), прямоугольник(Rectangle), треугольник(Triangle), пятиугольник(Pentagon), шестиугольник(Hexagon), эллипс(Ellipse)). Необходимые параметры для создания фигур выбираются самостоятельно.
 3. Для каждого класса задайте 4 метода:
 - метод инициализации, куда передаются необходимые параметры для создание фигуры
